@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "generated": "2026-07-10",
+  "service": {
+    "active": true,
+    "message": ""
+  },
+  "packs": {
+    "marx-manifesto-1848": {
+      "active": true,
+      "key": "0c5eec8185b17ccffc243af57beb79bc94c714e1786b0cb5aadf9f3bf8122742"
+    },
+    "nietzsche-zarathustra-1883": {
+      "active": true,
+      "key": "794a570af40536fa098de94a56bfe11b84358f74d609fcc901ee66bede282c4a"
+    }
+  }
+}
