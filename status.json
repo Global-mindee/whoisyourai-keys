@@ -8,11 +8,11 @@
   "packs": {
     "marx-manifesto-1848": {
       "active": true,
-      "key": "0c5eec8185b17ccffc243af57beb79bc94c714e1786b0cb5aadf9f3bf8122742"
+      "key": "0e18e04db2b0e8107e603be81794c65f0a1522a182f1639e3485ec8f4e810e92"
     },
     "nietzsche-zarathustra-1883": {
       "active": true,
-      "key": "794a570af40536fa098de94a56bfe11b84358f74d609fcc901ee66bede282c4a"
+      "key": "96e58c4ded1ec721d416a8dfd455db34a0be80d97bdac0e100768c0f3acaf3e3"
     }
   }
 }
